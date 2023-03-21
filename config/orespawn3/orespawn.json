@@ -193,7 +193,7 @@
 			"replaces": "default",
 			"dimensions": [],
 			"biomes": {
-				"includes": [ "MOUNTAIN" ]
+				"excludes": []
 			},
 			"parameters": {
 				"size": 1,
